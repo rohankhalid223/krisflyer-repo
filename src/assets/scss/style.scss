@@ -1,0 +1,18 @@
+// import scss files (for Vendors)
+@import 'vendors/bootstrap.min';
+// @import 'vendors/aos';
+// @import 'vendors/animate';
+// @import 'vendors/owl.carousel';
+// @import 'vendors/jquery.mCustomScrollbar';
+// @import 'vendors/plyr';
+// @import 'vendors/select2';
+
+// import scss files (for Global)
+// @import 'global/mixins';
+@import 'global/fonts';
+@import 'global/variables';
+@import 'global/global';
+
+// import scss files (for Components)
+@import 'components/header';
+@import 'components/footer';
